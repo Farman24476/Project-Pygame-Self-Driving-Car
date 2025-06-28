@@ -1,4 +1,4 @@
-# Pygame Self-Driving Car Demo
+# Project Pygame Self-Driving
 
 This minimal Pygame application demonstrates basic “autonomous” car navigation on a pre-rendered track.  
 A Tesla sprite moves along the road by sampling pixel values in front of the vehicle and adjusting its direction when the colour pattern changes.
